@@ -10,3 +10,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.bg-container {
+  background-color: bisque;
+  padding: 20px;
+}
+
+.heading-name {
+  text-align: center;
+  padding-bottom: 20px;
+  color: green;
+}
+
+.fields {
+  display: flex;
+  justify-content: space-around;
+}
